@@ -1,0 +1,8 @@
+﻿  main.cpp
+  You may be using a weak algorithm that has been retained for backwards compatibility. Please '#define CRYPTOPP_ENABLE_NAMESPACE_WEAK 1' before including this .h file and prepend the class name with 'Weak::' to remove this warning.
+  Generating code
+  5 of 984 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    25 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  test_task_Veeam_Klykova_Maria.vcxproj -> C:\Users\Maria\Documents\ASUS_all_Masha_files\job_search_2021\task_test_Veeam\test_task_Veeam_Klykova_Maria\x64\Release\test_task_Veeam_Klykova_Maria.exe
